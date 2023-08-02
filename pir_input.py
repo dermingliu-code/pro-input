@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# Progammed by D.M.Liu
 import RPi.GPIO as GPIO
 import time
 GPIO.setwarnings(False)
